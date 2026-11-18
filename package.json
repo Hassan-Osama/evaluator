@@ -1,0 +1,9 @@
+{
+  "name": "assignment-evaluator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Auto-grader for Software Project I - Assignment 1 (TypeScript, versions A-F)",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
